@@ -1,1 +1,3 @@
-# Ejercicio4PythonOpenbootcamp2022.github.io-
+curso de Python de Open Bootcamp
+
+Ejercicio 1,2y3
